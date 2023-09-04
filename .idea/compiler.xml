@@ -9,5 +9,8 @@
         <module name="ProjekatRPR" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AppFX_" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>
